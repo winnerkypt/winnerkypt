@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=siraom15&count_private=true) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winnerkypt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winnerkypt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winnerkypt&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winnerkypt&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
 
