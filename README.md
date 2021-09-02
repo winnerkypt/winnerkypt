@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 
 <!-- ![](https://img.shields.io/github/followers/siraom15?style=plastic) -->
 <br>
+
+
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=siraom15&count_private=true) -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winnerkypt)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=siraom15&count_private=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winnerkypt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winnerkypt&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
+
 
