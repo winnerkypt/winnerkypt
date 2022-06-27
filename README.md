@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm WINNER !</h1>
+
 
 #### My name is Kanyapat Wittayamanitkul.
 
